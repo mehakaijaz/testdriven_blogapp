@@ -1,0 +1,7 @@
+django==5.0.1
+#superuser=testdriven sameas pwd
+black
+model-bakery
+coverage
+django-crispy-forms
+crispy-bootstrap4
